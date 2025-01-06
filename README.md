@@ -1,2 +1,2 @@
 # playwright-python
-A comprehensive docker image to run Python Playwright for RPA
+A comprehensive docker image to run Playwright Python for RPA.
