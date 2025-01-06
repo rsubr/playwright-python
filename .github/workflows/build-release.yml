@@ -2,7 +2,7 @@ name: multi-arch docker build using qemu
 
 on:
   push:
-    branches: main
+    branches: 1.49.1
   workflow_dispatch:
 
 jobs:
